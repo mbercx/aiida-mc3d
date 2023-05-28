@@ -1,2 +1,3 @@
-# aiida-mc3d
-Tools and website for the MC3D project.
+# MC3D
+
+This repository contains the tools used to generate the data for the MC3D project.
